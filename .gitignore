@@ -1,0 +1,17 @@
+.env
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+.vscode/
+logs/
+*.log
+dist/
+faiss_index/
+build/
+*.egg-info/
+coverage
+faiss_data/
+.ipynb_checkpoints/
+*.sqlite3
